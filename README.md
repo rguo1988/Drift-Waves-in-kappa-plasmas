@@ -14,20 +14,16 @@ Therefore, this work would improve our understanding of the drift instabilities 
 ## Citation
 If you use the codes or are inspired by our work, please consider citing us.
 ```
-@Article{Guo2023a,
+@Article{
   author    = {Guo, Ran},
-  journal   = {Phys. Plasmas},
+  journal   = {Physics of Plasmas},
   title     = {Different effects of suprathermal electrons and ions on drift instabilities in non-uniform plasmas},
   year      = {2023},
-  issn      = {1089-7674},
-  month     = dec,
   number    = {12},
   pages     = {122113},
   volume    = {30},
   date      = {2023-12-20},
-  day       = {20},
   doi       = {10.1063/5.0172220},
-  fjournal  = {Physics of Plasmas},
   publisher = {AIP Publishing},
 }
 ```
