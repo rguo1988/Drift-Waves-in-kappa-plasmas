@@ -10,20 +10,3 @@ The paper studies the suprathermal effects of electrons and ions on drift instab
 The linear dispersion relation is expressed in a novel integral representation that involves the standard plasma dispersion functions defined in Maxwellian plasmas rather than the generalized plasma dispersion function modified by the Kappa distribution.
 By using this new representation, we find that the suprathermalization of electrons gives rise to an instability threshold, which does not exist in Maxwellian plasmas.
 Therefore, this work would improve our understanding of the drift instabilities in non-thermal plasmas.
-
-## Citation
-If you use the codes or are inspired by our work, please consider citing us.
-```
-@Article{
-  author    = {Guo, Ran},
-  journal   = {Physics of Plasmas},
-  title     = {Different effects of suprathermal electrons and ions on drift instabilities in non-uniform plasmas},
-  year      = {2023},
-  number    = {12},
-  pages     = {122113},
-  volume    = {30},
-  date      = {2023-12-20},
-  doi       = {10.1063/5.0172220},
-  publisher = {AIP Publishing},
-}
-```
